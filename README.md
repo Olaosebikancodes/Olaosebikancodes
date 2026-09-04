@@ -22,10 +22,6 @@ Underneath: Supabase/Postgres with row-level security as the authorisation bound
 
 Designed and built the station's full public website from scratch during NYSC, pitched it to management, and saw it through approval to launch. Also taught HTML and CSS to fellow interns, writing differentiated material for mixed skill levels.
 
-### 🤖 WhatsApp automation bot
-`Node.js · Baileys · Railway`
-
-Built and deployed a WhatsApp automation bot for a client, running in production on Railway.
 
 ---
 
@@ -65,15 +61,13 @@ Open to full-stack roles and freelance work.
 
 ---
 
-## 📊 GitHub
+## 📊 Contributions
 
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olaosebikancodes&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olaosebikancodes&layout=compact&theme=radical)
+[![Isaac's contribution graph](https://ghchart.rshah.org/E68B57/Olaosebikancodes)](https://github.com/Olaosebikancodes)
 
 ---
 
-🎓 BSc Computer Science, Joseph Ayo Babalola University · 🎮 Call of Duty Mobile and web novels when I'm not shipping
+🎓 BSc Computer Science, Joseph Ayo Babalola University · 🎮 Call of Duty Mobile and Manhwa when I'm not shipping
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olaosebikan-isaac-a70658240/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/olaosebikan_isaac/)
